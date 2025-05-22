@@ -1,7 +1,3 @@
-Here’s an extensively improved `README.md` for your GitHub repository **apdebray-air\_force\_budget\_analysis**, designed to reflect your professional presentation, technical depth, and analytical insights:
-
----
-
 # U.S. Air Force Budget Analysis
 
 ## Overview
@@ -63,7 +59,3 @@ A distilled executive summary of the findings delivered for Purdue's MGMT 59000 
 **Armand Paul Debray**
 Air Force Intelligence Officer | MSBAIM Candidate at Purdue
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-debray-76195b1a5) | 📧 [debray@purdue.edu](mailto:debray@purdue.edu)
-
----
-
-Let me know if you’d like a more stripped-down or a more academic/research-focused version!
